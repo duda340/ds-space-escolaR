@@ -1,0 +1,16 @@
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\bin\Debug\Escola.exe.config
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\bin\Debug\Escola.exe
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\bin\Debug\Escola.pdb
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\Escola.csproj.AssemblyReference.cache
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\Escola.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\App.g.cs
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\Escola_MarkupCompile.cache
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\Escola_MarkupCompile.lref
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\MainWindow.baml
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\Escola.g.resources
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\Escola.Properties.Resources.resources
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\Escola.csproj.GenerateResource.cache
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\Escola.csproj.CoreCompileInputs.cache
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\Escola.exe
+C:\Users\2020102011007-3\Documents\Eduarda\Nova pasta\Escola\obj\Debug\Escola.pdb
